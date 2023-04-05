@@ -14,5 +14,7 @@ https://tryhackme.com/path/outline/presecurity
 
 # Exam tips
 >Read carefully. Watch out for the words "MOST", "BEST", "LEAST" and "NOT".
+
 >Prepare for performance based questions. This question can be a network configuration, terminal or drag and drop window.
->Memorize the acronyms
+
+>Make sure to memorize the acronyms.
