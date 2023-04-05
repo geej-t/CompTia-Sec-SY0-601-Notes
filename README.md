@@ -10,11 +10,17 @@ https://www.udemy.com/course/security-601-exams/
 
 https://www.youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
 
-https://tryhackme.com/path/outline/presecurity
+https://www.youtube.com/watch?app=desktop&v=9Hd8QJmZQUc
+
+https://www.stationx.net/comptia-security-cheat-sheet/
 
 # Exam tips
->Read carefully. Watch out for the words "MOST", "BEST", "LEAST" and "NOT".
+>Don't rush and read carefully. Watch out for the words "MOST", "BEST", "LEAST" and "NOT".
 >
 >Prepare for performance based questions. This question can be a network configuration, terminal or drag and drop window.
 >
 >Make sure to memorize the acronyms.
+>
+>Since the exam is multiple choices, you can eliminate the answer option which you're sure that incorrect before selecting the answer you believe is correct.
+>
+>Stay calm and focused.
